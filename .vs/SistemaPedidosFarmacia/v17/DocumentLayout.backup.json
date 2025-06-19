@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mrivera\\Documents\\UNIR\\Plataformas de desarrollo\\Sistema-de-Pedidos-Farmacia-.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\view\\resumenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\view\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\view\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\controller\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\controller\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\model\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\model\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\SistemaPedidosFarmacia.csproj|c:\\users\\mrivera\\source\\repos\\windowsformsapp1\\windowsformsapp1\\view\\resumenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\resumenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\resumenpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\pedido.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\pedido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\resumenpedido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953E4912-F9FE-49E5-96D2-E29DD9CA63B9}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\view\\resumenpedido.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Controller\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Controller\\PedidoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:04:06.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\PedidoModel.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:04:06.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:37:39.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAvwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:05:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Controller\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Controller\\PedidoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:34:09.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResumenPedido.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:04:06.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\PedidoModel.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:31:34.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:04:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResumenPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:04:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResumenPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:27:07.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:27:16.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResumenPedido.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:27:55.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pedido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.Designer.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:41:50.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.resx",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.resx",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-19T04:32:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\Pedido.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:23:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResumenPedido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.Designer.cs",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:27:14.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResumenPedido.resx",
+              "DocumentMoniker": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.resx",
+              "ToolTip": "C:\\Users\\mrivera\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\View\\ResumenPedido.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-19T04:59:24.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
