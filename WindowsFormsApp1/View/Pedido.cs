@@ -18,6 +18,7 @@ namespace WindowsFormsApp1
         public Pedido()
         {
             InitializeComponent();
+            this.Text = "Formulario de Pedidos";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,54 +35,6 @@ namespace WindowsFormsApp1
         {
 
         }
-
-        //private void button1_Click(object sender, EventArgs e)
-        //{
-        //    // Validar nombre del medicamento
-        //    if (string.IsNullOrWhiteSpace(nombreMedicamento.Text) || !System.Text.RegularExpressions.Regex.IsMatch(nombreMedicamento.Text, @"[a-zA-Z0-9]"))
-        //    {
-        //        MessageBox.Show("El nombre del medicamento debe contener caracteres alfanuméricos.", "Campo inválido", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        //        nombreMedicamento.Focus();
-        //        return;
-        //    }
-
-        //    // Validar selección en el ComboBox
-        //    if (tipoMedicamento.SelectedIndex == -1)
-        //    {
-        //        MessageBox.Show("Debe seleccionar un tipo de medicamento.", "Campo obligatorio", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        //        tipoMedicamento.Focus();
-        //        return;
-        //    }
-
-        //    // Validar que cantidad no esté vacía y sea un número positivo
-        //    if (string.IsNullOrWhiteSpace(cantidad.Text) || !int.TryParse(cantidad.Text, out int cantidadValor) || cantidadValor <= 0)
-        //    {
-        //        MessageBox.Show("Ingrese una cantidad válida.", "Campo obligatorio", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        //        cantidad.Focus();
-        //        return;
-        //    }
-
-        //    // Validar que se haya seleccionado al menos un RadioButton en groupBoxDistribuidor
-        //    bool radioSeleccionado = groupBoxDistribuidor.Controls
-        //        .OfType<RadioButton>()
-        //        .Any(rb => rb.Checked);
-
-        //    if (!radioSeleccionado)
-        //    {
-        //        MessageBox.Show("Debe seleccionar un distribuidor.", "Campo obligatorio", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        //        return;
-        //    }
-
-        //    // Validar que al menos un CheckBox esté seleccionado en el GroupBox
-        //    if (!checkBoxPrincipal.Checked && !checkBoxSecundaria.Checked)
-        //    {
-        //        MessageBox.Show("Debe seleccionar al menos una opción de distribuidor.", "Campo obligatorio", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        //        return;
-        //    }
-
-        //    // Si todo es válido:
-        //    MessageBox.Show("Todos los datos están correctos.", "Validación exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        //}
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -110,7 +63,7 @@ namespace WindowsFormsApp1
                 return;
             }
 
-            var resumen = new ResumenPedido(pedido);
+            var resumen = new ResumenPedido(pedido, this);
             resumen.ShowDialog();
         }
 
@@ -148,26 +101,29 @@ namespace WindowsFormsApp1
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
-            // Limpiar TextBox
+            this.limpiarFormulario();
+        }
+        public void limpiarFormulario()
+        {
             nombreMedicamento.Clear();
             cantidad.Clear();
 
-            // Resetear ComboBox
             tipoMedicamento.SelectedIndex = -1;
 
-            // Desmarcar RadioButtons del groupBoxDistribuidor
             foreach (RadioButton rb in groupBoxDistribuidor.Controls.OfType<RadioButton>())
             {
                 rb.Checked = false;
             }
 
-            // Desmarcar CheckBoxes
             checkBoxPrincipal.Checked = false;
             checkBoxSecundaria.Checked = false;
 
-            // Opcional: devolver el foco al primer campo
             nombreMedicamento.Focus();
         }
 
+        private void tipoMedicamento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
